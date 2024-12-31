@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\models\\viewmodel\\vmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\viewmodel\\vmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\models\\entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.TeamMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Migrations\\20241230115915_n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assesment\\Migrations\\20241230115915_n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\models\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\models\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|c:\\users\\nada.khaled\\source\\repos\\assesment\\assesment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BB7B31-A17A-4004-B1B4-571A25CF5C7A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Migrations\\20241230073744_nada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assesment\\Migrations\\20241230073744_nada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 746,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Member\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Member\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Member\\Edit.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Member\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T07:26:04.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T07:25:29.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.TeamMembers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.TeamMembers.sql",
+              "ToolTip": "dbo.TeamMembers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T12:01:18.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Projects [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "dbo.Projects [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T12:00:52.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assesment/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "dbo.Tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T12:00:13.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241230115915_n.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Migrations\\20241230115915_n.cs",
+              "RelativeDocumentMoniker": "Assesment\\Migrations\\20241230115915_n.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Migrations\\20241230115915_n.cs",
+              "RelativeToolTip": "Assesment\\Migrations\\20241230115915_n.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:59:15.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Task\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:17:25.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:48:03.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Task\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Task\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Task\\Edit.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Task\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:44:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vmViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\ViewModel\\vmViewModel.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\ViewModel\\vmViewModel.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\ViewModel\\vmViewModel.cs",
+              "RelativeToolTip": "Assesment\\Models\\ViewModel\\vmViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:30:53.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:55:45.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Details.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:46:44.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:44:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Delete.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:43:34.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Edit.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:42:42.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:41:54.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:41:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241230073744_nada.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Migrations\\20241230073744_nada.cs",
+              "RelativeDocumentMoniker": "Assesment\\Migrations\\20241230073744_nada.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Migrations\\20241230073744_nada.cs",
+              "RelativeToolTip": "Assesment\\Migrations\\20241230073744_nada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:37:44.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:13:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\Entities\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entities\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\Entities\\TeamMember.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entities\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:59:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\Entities\\Project.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:58:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "task.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\Entities\\task.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entities\\task.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\Entities\\task.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entities\\task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:53:05.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Program.cs",
+              "RelativeDocumentMoniker": "Assesment\\Program.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Program.cs",
+              "RelativeToolTip": "Assesment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:24:57.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\appsettings.json",
+              "RelativeDocumentMoniker": "Assesment\\appsettings.json",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\appsettings.json",
+              "RelativeToolTip": "Assesment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T06:22:27.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nada.khaled\\source\\repos\\Assesment\\Assesment\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Assesment\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:21:47.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 172,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
